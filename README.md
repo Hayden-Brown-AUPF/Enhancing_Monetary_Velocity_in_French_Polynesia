@@ -1,2 +1,0 @@
-# Enhancing_Monetary_Velocity_in_French_Polynesia
-Economic Research
