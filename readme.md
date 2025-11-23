@@ -23,6 +23,7 @@ The full report includes:
 - Cryptocurrency and digital innovation opportunities
 - Comprehensive methodology and data sources
 
+*If you find this analysis valuable, please ⭐ star this repository and share with others interested in Pacific economics and island nation resilience.*
 ---
 
 **Report Date:** November 7, 2025  
